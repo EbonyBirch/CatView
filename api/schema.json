@@ -1,0 +1,22 @@
+[
+  {
+    "namespace": "recursiveView",
+    "description": "Privileged interface to Thunderbird's native message list.",
+    "functions": [
+      {
+        "name": "toggle",
+        "type": "function",
+        "async": true,
+        "parameters": [{"name": "tabId", "type": "integer"}],
+        "returns": {
+          "type": "object",
+          "properties": {
+            "enabled": {"type": "boolean"},
+            "folder": {"type": "string"},
+            "foldersIncluded": {"type": "integer"}
+          }
+        }
+      }
+    ]
+  }
+]
