@@ -1,4 +1,4 @@
-# CatView 0.2.1 — Thunderbird recursive folder view
+# CatView 0.2.2 — Thunderbird recursive folder view
 
 A one-click toggle to concatenate the messages of the currently selected **real
 mail folder and all of its descendants** into Thunderbird's native message list.
@@ -9,6 +9,10 @@ in Table View so each message's original folder can be identified.
 | --- | --- | --- | --- |
 | Disabled | CatView: OFF | White cat | Selected folder only |
 | Enabled | CatView: ON | Black cat | Selected folder + every nested subfolder |
+
+## Changes in version 0.2.2
+
+- Cleaned up release info
 
 ## Changes in version 0.2.1
 
