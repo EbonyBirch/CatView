@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
   "name": "CatView",
-  "description": "Concatenated folder view: show messages from the selected folder and its descendants. Cat illustrations by Fiaz jutt via Vecteezy.com.",
-  "version": "0.2.1",
-  "author": "OpenAI (experimental implementation)",
+  "description": "Concatenated folder view: show messages from the selected folder and its descendants.",
+  "version": "0.2.2",
+  "author": "EbonyBirch",
   "browser_specific_settings": {
     "gecko": {
-      "id": "recursive-folder-view-prototype@local",
+      "id": "ebonybirch@github.aomi.pl",
       "strict_min_version": "128.0"
     }
   },
